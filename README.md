@@ -24,8 +24,8 @@ Here we see both FAE and FCE slowly rising year by year, with a dip during 2020-
 
 ### STEPS TAKEN TO CREATE THE FORECAST MODEL:
 - Load the dataset using pandas.
-- Group the data by 'Year_sheet1' and aggregate the 'FCEs_sheet1' and 'FAEs_sheet1' columns.
-- Fit an ARIMA model for FCEs and FAEs with the order (0, 2, 20) to forecast the next 5 years.
+- Group the data and aggregate the FAE and FCE columns.
+- Fit an ARIMA model for FCEs and FAEs with the order (0 to forecast the next 5 years.
 - Define the forecast years starting from '2023-24' to '2027-28'
 - Combine the historical data with the forecasted data for FCEs and FAEs.
 - Create a list of years combining both historical and forecasted years.
