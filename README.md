@@ -1,7 +1,7 @@
 # NHS-Patient-Care-Analysis-22-23
 
 ## DESCRIPTION
-A passion project analysing NHS Hospital Episode Statistics to evaluate overall patient care, including admissions.
+A passion project analysing NHS Hospital Episode Statistics to evaluate overall patient care, including admissions and a 5-year forecase model built using Statsmodel.
 
 ## SUMMARY OF DATA
 ![image](https://github.com/user-attachments/assets/43ade539-70ce-45e8-b606-ee83da1349a9)
@@ -18,3 +18,6 @@ Here we see both FAE and FCE slowly rising year by year, with a dip during 2020-
 ### MALE AND FEMALE FCE BY AGE (2022-23):
 - Both male and female FCE drop from the ages 0-4 to 5-9. The high FCE at 0-4 is highly likely due to new-borns and possibly unfortunate complications during this stage
 - The lowest FCE count was at 10-14
+
+## 5 YEAR FORECAST:
+![Figure_1 (1)](https://github.com/user-attachments/assets/56292bfc-d01d-42d3-b434-5716429d12e0)
