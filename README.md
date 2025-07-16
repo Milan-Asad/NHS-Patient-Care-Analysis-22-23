@@ -16,8 +16,15 @@ Here we see both FAE and FCE slowly rising year by year, with a dip during 2020-
 - The dip during the pandemic was due to treatment delays, likely creating a backlog that may have impacted admissions in subsequent years.
 
 ### MALE AND FEMALE FCE BY AGE (2022-23):
-- Both male and female FCE drop from the ages 0-4 to 5-9. The high FCE at 0-4 is highly likely due to new-borns and possibly unfortunate complications during this stage
+- Both male and female FCE drop from the ages 0-4 to 5-9. The high FCE at 0-4 is highly likely due to newborns and possibly unfortunate complications during this stage
 - The lowest FCE count was at 10-14
+
+## PATIENT JOURNEY
+<img width="951" height="533" alt="image" src="https://github.com/user-attachments/assets/727fe424-6dfd-42ad-9fd8-a4a76174c403" />
+
+### SUMMARY
+- Hospitals often have the highest discharge days on Friday, possibly to free up beds for the weekend, as well as to provide closure as less staff are available on weekends
+- In 2020–21, NHS critical care records dropped sharply, likely due to overwhelmed hospitals, altered care pathways, and pandemic-related disruptions in data reporting—not reduced demand. The decrease reflects service strain, not a decline in patient need.
 
 ## CASES BY ETHNICITY
 <img width="1113" height="623" alt="image" src="https://github.com/user-attachments/assets/0772b791-8cc2-4763-8edc-cef49d86e923" />
