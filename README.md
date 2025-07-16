@@ -19,6 +19,12 @@ Here we see both FAE and FCE slowly rising year by year, with a dip during 2020-
 - Both male and female FCE drop from the ages 0-4 to 5-9. The high FCE at 0-4 is highly likely due to new-borns and possibly unfortunate complications during this stage
 - The lowest FCE count was at 10-14
 
+## CASES BY ETHNICITY
+<img width="1113" height="623" alt="image" src="https://github.com/user-attachments/assets/0772b791-8cc2-4763-8edc-cef49d86e923" />
+
+### SUMMARY:
+- Elective cases were at 52.7% whilst Emergency cases were at 37.27%, showing that the majority of hospital admissions were planned rather than urgent, suggesting effective access to scheduled care services.
+
 ## 5 YEAR FORECAST:
 ![Figure_1 (1)](https://github.com/user-attachments/assets/56292bfc-d01d-42d3-b434-5716429d12e0)
 
